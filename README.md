@@ -2,7 +2,7 @@
 This is a responsive beauty product e-commerce website built using HTML, CSS, and JavaScript. The website provides a user-friendly interface for customers to browse and purchase beauty products .
 
 ## Tutorial
-If you want to learn how to build this website step-by-step, you can follow the tutorial on YouTube ( coming soon ). The tutorial covers everything from setting up the HTML file to adding custom CSS and JavaScript to make the website fully responsive.
+If you want to learn how to build this website step-by-step, you can follow the tutorial on [YouTube](https://youtu.be/Lr9KH1GpCt8). The tutorial covers everything from setting up the HTML file to adding custom CSS and JavaScript to make the website fully responsive.
 
 ## Technologies Used
 The website is built using the following technologies:
